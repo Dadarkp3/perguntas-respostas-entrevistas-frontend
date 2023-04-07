@@ -8,7 +8,7 @@
 </div>
 
 ---
-<h2>📌 -  Tabela de Conteudo </h2>
+### 📌 -  Tabela de Conteudo
 
  - **Internet**
 	 - Como funciona a Internet
@@ -128,3 +128,19 @@
 	-	React Native
 - **Aplicações Desktop**
 	- Electron
+- **Ciência da Computação**
+	- Fundamentos
+	- Estrutura de Dados
+	- Algoritmos
+	- Código
+- **Perguntas Gerais**
+	- Perguntas mais frequentes para entender o participante
+	- Perguntas de Organização
+- **Agil**
+	- Kanban
+	- Scrum
+
+### Guia de Contribuição
+
+Se você quiser contribuir para esse projeto é só criar uma PR com as alterações seguindo o [Guia de Contribuição](./CONTRIBUTING.md)
+<br/><br/>
