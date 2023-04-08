@@ -12,7 +12,7 @@
 ### 📌 - Tabela de Conteudo
 
 - **[Internet](./internet/Internet.md)**
-  - Como funciona a Internet
+  - [Como funciona a Internet](./internet/Internet.md#como-funciona-a-internet)
   - HTTP
   - Navegadores
   - DNS
