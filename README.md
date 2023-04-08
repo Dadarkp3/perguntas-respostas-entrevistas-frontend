@@ -8,137 +8,138 @@
 </div>
 
 ---
-### 📌 -  Tabela de Conteudo
 
- - **Internet**
-	 - Como funciona a Internet
-	 - HTTP
-	 - Navegadores
-	 - DNS
-	 - Domain
-	 - Hosting
- - **HTML**
-	 - Básico de HTML
-	 - Semantica
-	 - Forms e Validações
-	 - Convenções e Boas práticas
-	 - Acessibilidade
-	 - SEO
- - **CSS**
-	 - Básico de CSS
-	 - Layout
-	 - Design Responsivo
- - **Javascript**
-	 - Básico de Javascript
-	 - Manipulação do DOM
-	 - Fetch API / Ajax(XHR)
-	 - ES6+ E Javascript Modular
- - **Versionamento de Código**
-	 - Básico de Git
-	 - Repositórios Remotos
-		 - Github
-			 - Github Actions
- - **Segurança da Web**
-	 - HTTPS
-	 - CORS
-	 -   Política de segurança de conteúdo
-	 - OWASP
- - **Package Managers**
-	 - npm
-	 - yarn
-	 - pnpm
- - **Arquitetura de CSS**
-	 - BEM
- - **Preprocessadores**
-	 - SASS
-		 - SCSS
-	 - PostCSS
- - **Ferramentas de Build**
-	 - Linst e Formatções
-		 - Prettier
-		 - ESLint
-	- Task Runners
-		- npm scripts
- - **Bundlers**
-	 - Vite
-	 - esbuild
-	 - Webpack
-	 - Rollup
-	 - Parcel
- - **Frameworks**
-	 - React
-	 - Angular
- - **Gerenciamento de Estados**
-	 - Redux
-	 - ContextAPI
-	 - Mobix
- - **CSS Moderno**
-	 - Styled Components
-	 - CSS Modules
-	 - Styled JSX
-	 - Emotion
+### 📌 - Tabela de Conteudo
+
+- **[Internet](./internet/Internet.md)**
+  - Como funciona a Internet
+  - HTTP
+  - Navegadores
+  - DNS
+  - Domain
+  - Hosting
+- **HTML**
+  - Básico de HTML
+  - Semantica
+  - Forms e Validações
+  - Convenções e Boas práticas
+  - Acessibilidade
+  - SEO
+- **CSS**
+  - Básico de CSS
+  - Layout
+  - Design Responsivo
+- **Javascript**
+  - Básico de Javascript
+  - Manipulação do DOM
+  - Fetch API / Ajax(XHR)
+  - ES6+ E Javascript Modular
+- **Versionamento de Código**
+  - Básico de Git
+  - Repositórios Remotos
+    - Github
+      - Github Actions
+- **Segurança da Web**
+  - HTTPS
+  - CORS
+  - Política de segurança de conteúdo
+  - OWASP
+- **Package Managers**
+  - npm
+  - yarn
+  - pnpm
+- **Arquitetura de CSS**
+  - BEM
+- **Preprocessadores**
+  - SASS
+    - SCSS
+  - PostCSS
+- **Ferramentas de Build**
+  - Linst e Formatções
+    - Prettier
+    - ESLint
+  - Task Runners
+    - npm scripts
+- **Bundlers**
+  - Vite
+  - esbuild
+  - Webpack
+  - Rollup
+  - Parcel
+- **Frameworks**
+  - React
+  - Angular
+- **Gerenciamento de Estados**
+  - Redux
+  - ContextAPI
+  - Mobix
+- **CSS Moderno**
+  - Styled Components
+  - CSS Modules
+  - Styled JSX
+  - Emotion
 - **Framework CSS**
-	- Material ui
-	- Tailwind
-	- Ant-design
+  - Material ui
+  - Tailwind
+  - Ant-design
 - **Testagem**
-	- TDD
-	- Jest
-	- React Testing Library
-	- Cypress
-	- Unit Testing
-	- Testes de Integração
-	- Functional Testing
+  - TDD
+  - Jest
+  - React Testing Library
+  - Cypress
+  - Unit Testing
+  - Testes de Integração
+  - Functional Testing
 - **Estratégias de Autenticação**
-	- JWT
-	- OAuth
-	- SSO
-	- Basic Auth
-	- Session Auth
--	**Web Components**
-	-	HTML Templates
-	-	Custom Elements
-	-	Shadow DOM
+  - JWT
+  - OAuth
+  - SSO
+  - Basic Auth
+  - Session Auth
+- **Web Components**
+  - HTML Templates
+  - Custom Elements
+  - Shadow DOM
 - **Tipagem**
-	- Typescript
+  - Typescript
 - **Progressive Web Apps**
-	- Storage
-	- Web sockets
-	- Server Sent Events
-	- Service Workes
-	- Location
-	- Notifications
-	- Device Orientation
-	- Payments
-	- Credentials
-	- Boas Práticas
-		- PRPL Pattern
-		- Rail Model
-		- Métricas de Performance
-		- Lighthouse
-		- Devtools
-	- Server Side Rendering
-		- NextJS
-		- Remix
-	- Geradores de Sites estáticos
-		- GastbyJS
+  - Storage
+  - Web sockets
+  - Server Sent Events
+  - Service Workes
+  - Location
+  - Notifications
+  - Device Orientation
+  - Payments
+  - Credentials
+  - Boas Práticas
+    - PRPL Pattern
+    - Rail Model
+    - Métricas de Performance
+    - Lighthouse
+    - Devtools
+  - Server Side Rendering
+    - NextJS
+    - Remix
+  - Geradores de Sites estáticos
+    - GastbyJS
 - **GraphQL**
-	- Apollo
--	**Aplicações Mobile**
-	-	React Native
+  - Apollo
+- **Aplicações Mobile**
+  - React Native
 - **Aplicações Desktop**
-	- Electron
+  - Electron
 - **Ciência da Computação**
-	- Fundamentos
-	- Estrutura de Dados
-	- Algoritmos
-	- Código
+  - Fundamentos
+  - Estrutura de Dados
+  - Algoritmos
+  - Código
 - **Perguntas Gerais**
-	- Perguntas mais frequentes para entender o participante
-	- Perguntas de Organização
+  - Perguntas mais frequentes para entender o participante
+  - Perguntas de Organização
 - **Agil**
-	- Kanban
-	- Scrum
+  - Kanban
+  - Scrum
 
 ### Guia de Contribuição
 
