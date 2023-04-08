@@ -55,7 +55,7 @@
     - SCSS
   - PostCSS
 - **Ferramentas de Build**
-  - Linst e Formatções
+  - Lints e Formatções
     - Prettier
     - ESLint
   - Task Runners
