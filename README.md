@@ -13,7 +13,7 @@
 
 - **[Internet](./internet/Internet.md)**
   - [Como funciona a Internet](./internet/Internet.md#como-funciona-a-internet)
-  - HTTP
+  - [HTTP](./internet/Internet.md#http)
   - Navegadores
   - DNS
   - Domain
