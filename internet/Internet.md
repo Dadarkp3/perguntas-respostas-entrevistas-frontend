@@ -6,6 +6,16 @@
 
 ## Como funciona a Internet
 
+### **🤔 Onde Aprender:**
+
+[Como funciona a internet 📺 ](https://www.youtube.com/watch?v=PaOOO2VdBoc)
+
+[Como funciona a internet - em inglês - 📺](https://www.youtube.com/watch?v=TNQsmPf24go&t=837s)
+
+[Como a internet funciona MDN 📖](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
+
+### **❓&❗ Perguntas e Respostas:**
+
 <details>
   <summary>O que é a internet?</summary>
   <p>A internet é uma rede global de computadores interconectados que permite a troca de informações e dados entre eles.</p>
