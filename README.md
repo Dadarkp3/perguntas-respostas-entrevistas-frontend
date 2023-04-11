@@ -15,7 +15,7 @@
   - [Como funciona a Internet](./internet/Internet.md#como-funciona-a-internet)
   - [HTTP](./internet/Internet.md#http)
   - [Navegadores](./internet/Internet.md#navegadores)
-  - DNS
+  - [DNS](./internet/Internet.md#dns)
   - Domain
   - Hosting
 - **HTML**
