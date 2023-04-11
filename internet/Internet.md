@@ -201,8 +201,66 @@
 ### **❓&❗ Perguntas e Respostas:**
 
 <details>
-  <summary></summary>
-  <p></p>
+  <summary>O que é um navegador web (browser)?</summary>
+  <p>Um navegador web (browser) é um software que permite que os usuários acessem e naveguem na internet, exibindo páginas da web e outros conteúdos multimídia.</p>
+</details>
+<details>
+  <summary>Quais são os navegadores web mais populares atualmente?</summary>
+  <p>Os navegadores mais populares atualmente são o Google Chrome, o Mozilla Firefox, o Microsoft Edge, o Safari e o Opera.</p>
+</details>
+<details>
+  <summary>Quais são as diferenças entre os navegadores web?</summary>
+  <p>As diferenças entre os navegadores web incluem recursos de segurança, desempenho, interface de usuário, compatibilidade com sistemas operacionais e extensões.</p>
+</details>
+<details>
+  <summary>Como os navegadores web processam as páginas da web?
+</summary>
+  <p>Os navegadores web usam uma linguagem de marcação chamada HTML, juntamente com outras linguagens de programação como CSS e JavaScript, para processar e exibir páginas da web.</p>
+</details>
+<details>
+  <summary>O que são cookies e como os navegadores os usam?
+</summary>
+  <p>Cookies são pequenos arquivos de texto que os sites da web armazenam no computador do usuário para lembrar de informações, como preferências de idioma ou dados de login. Os navegadores usam cookies para lembrar dessas informações e fornecer uma experiência personalizada aos usuários.</p>
+</details>
+<details>
+  <summary>Como os navegadores web garantem a segurança dos usuários?</summary>
+  <p>Os navegadores web utilizam diversas técnicas de segurança, como bloqueio de pop-ups, detecção de phishing, verificação de certificados SSL e navegação privada, para garantir a segurança dos usuários.</p>
+</details>
+<details>
+  <summary>O que é o modo de navegação privada em um navegador web?</summary>
+  <p>O modo de navegação privada em um navegador web permite que os usuários naveguem na internet sem deixar um histórico de navegação, cookies ou outros dados no computador.</p>
+</details>
+<details>
+  <summary>Como os navegadores web lidam com plugins e extensões?</summary>
+  <p>Os navegadores web permitem que os usuários instalem plugins e extensões para adicionar recursos adicionais, como bloqueadores de anúncios ou gerenciadores de senha.</p>
+</details>
+<details>
+  <summary>Como os navegadores web lidam com conteúdo multimídia, como vídeos e áudio?</summary>
+  <p>Os navegadores web utilizam plugins ou tecnologias de mídia integradas, como HTML5 e WebRTC, para reproduzir conteúdo multimídia em páginas da web.</p>
+</details>
+<details>
+  <summary>O que é a renderização de página em um navegador web?</summary>
+  <p>A renderização de página em um navegador web é o processo de interpretar e exibir o conteúdo HTML de uma página da web em uma interface gráfica.</p>
+</details>
+<details>
+  <summary>Como os navegadores web lidam com atualizações de segurança e versões de software?</summary>
+  <p>Os navegadores web fornecem atualizações regulares de segurança e novas versões de software para garantir que os usuários tenham a melhor experiência possível e permaneçam protegidos contra ameaças de segurança.</p>
+</details>
+<details>
+  <summary>Como os navegadores web lidam com problemas de compatibilidade entre diferentes sistemas operacionais?</summary>
+  <p>Os navegadores web são projetados para funcionar em diferentes sistemas operacionais e dispositivos, mas podem enfrentar problemas de compatibilidade. As atualizações regulares de software ajudam a garantir que os navegadores web sejam compatíveis com uma ampla variedade de sistemas operacionais.</p>
+</details>
+<details>
+  <summary>Como os navegadores web lidam com problemas de desempenho, como lentidão ou travamentos?</summary>
+  <p>Os navegadores web podem enfrentar problemas de desempenho devido a diversos fatores, como recursos do sistema, problemas de rede e conflitos de extensões. Para lidar com esses problemas, os usuários podem limpar o cache e o histórico de navegação, desativar extensões desnecessárias ou atualizar o software do navegador.</p>
+</details>
+<details>
+  <summary>Quais são as melhores práticas de segurança que os usuários devem seguir ao navegar na internet?</summary>
+  <p>Os usuários devem seguir as melhores práticas de segurança ao navegar na internet, como manter o software do navegador atualizado, usar senhas fortes e exclusivas, evitar clicar em links suspeitos ou desconhecidos e usar uma conexão segura, como uma VPN.</p>
+</details>
+<details>
+  <summary>Quais são as tendências futuras no desenvolvimento de navegadores web?</summary>
+  <p>As tendências futuras no desenvolvimento de navegadores web incluem melhorias na privacidade do usuário, avanços na tecnologia de inteligência artificial e aprendizado de máquina, integração com dispositivos inteligentes e aumento da velocidade de carregamento de páginas da web.</p>
 </details>
 
 ---
