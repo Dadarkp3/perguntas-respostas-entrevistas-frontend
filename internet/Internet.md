@@ -190,6 +190,21 @@
 
 ## Navegadores
 
+### **🤔 Onde Aprender:**
+
+[Como funcionam os Navegadores 📺 ](https://www.youtube.com/watch?v=91hpA4F1-jw)
+
+[Como funciona um navegador Web 📺](https://www.youtube.com/watch?v=kDy62zaCHZE&t=77s)
+
+[O que é um navegador e como ele funciona 📖](https://www.mozilla.org/pt-BR/firefox/browsers/what-is-a-browser)
+
+### **❓&❗ Perguntas e Respostas:**
+
+<details>
+  <summary></summary>
+  <p></p>
+</details>
+
 ---
 
 ## DNS
